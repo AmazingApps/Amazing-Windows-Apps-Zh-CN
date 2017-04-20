@@ -78,3 +78,13 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 向iPhone iTunes传输电影音频文件
 
+### WinMerge ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网](http://winmerge.org/)｜[下载页面](http://winmerge.org/downloads/)
+
+工程化的文件文件夹对比工具
+
+###### ⚠长期无更新但未发现明显的bug
+
+
+
