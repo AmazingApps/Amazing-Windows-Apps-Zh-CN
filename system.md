@@ -74,6 +74,10 @@
 
 多功能进程管理工具
 
+### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+增强型任务管理器， 允许终结一些系统的关键进程
+
 ### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式Explorer增强工具
