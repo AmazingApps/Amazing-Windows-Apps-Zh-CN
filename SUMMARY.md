@@ -27,4 +27,5 @@
 * [文本编辑](text-editor.md)
 * [视频工具](videos.md)
 * [流氓名单](blacklist.md)
+* [鸣谢列表](acknowledgement.md)
 
