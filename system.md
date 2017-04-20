@@ -70,7 +70,7 @@
 
 ### Process Hacker ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-###### [官网 Official Site](https://wj32.org/processhacker/index.php)｜[下载页面 Download Page](https://wj32.org/processhacker/downloads.php)
+###### [官网](https://wj32.org/processhacker/index.php)｜[下载页面](https://wj32.org/processhacker/downloads.php)
 
 多功能进程管理工具
 
