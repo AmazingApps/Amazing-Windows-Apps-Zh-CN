@@ -1,6 +1,6 @@
 # Windows绝赞应用
 
-![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-211-blue.svg) ![license](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps-Zh-CN.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN/issues)
+![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/应用总数-211-blue.svg) ![license](https://img.shields.io/badge/协议-GPL v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps-Zh-CN.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN/issues)
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
@@ -29,17 +29,19 @@
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/amazing-windows-apps-zh-cn)
 
+[返回英文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps)
+
 ---
 
 ### 标识说明
 
-可免费使用（可能有收费版功能）
+![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-开源软件
+![](/assets/open-source-icon.png) 开源软件
 
-便携软件或可便携安装：不写入注册表和用户目录，所有配置全写在软件目录下
+![](/assets/usb.png) 便携软件或可便携安装：不写入注册表和用户目录，所有配置全写在软件目录下
 
-具有跨平台版本
+![](/assets/multi_platform.png) 具有跨平台版本
 
 多语言支持：至少支持 世界上几种使用较多较广的语言
 
@@ -49,3 +51,6 @@
 
 1. 存在争议的应用，应用信誉尚不完全清楚
 2. 长期无更新的应用，尚不清楚已停止维护
+
+
+
