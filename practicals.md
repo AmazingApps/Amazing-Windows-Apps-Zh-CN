@@ -64,5 +64,7 @@ Windows下免费翻译工具
 
 ###### 长期无更新
 
+### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
+屏幕局部放大
 
