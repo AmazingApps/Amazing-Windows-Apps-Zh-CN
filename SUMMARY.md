@@ -5,7 +5,5 @@
 * [音频文件](audio.md)
 * [即时聊天](chat-client.md)
 * [压缩处理](compression.md)
-* 配置安装
-
-
+* [配置安装](configuration.md)
 
