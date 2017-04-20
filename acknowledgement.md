@@ -12,6 +12,8 @@
 其他个人：
 
 * [ADeadCat](https://github.com/ADeadCat)
+* [aixlx \(Lianxiao Xue\)](#)
+
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
 * [Chen Shaoju](https://github.com/chenshaoju)
