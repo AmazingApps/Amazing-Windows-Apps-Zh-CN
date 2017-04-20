@@ -20,6 +20,14 @@
 
 按下Alt键时，拖动窗口，调整大小，最小化等等
 
+### ~~Clover~~ ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+~~为文件资源浏览器增加多标签特性~~
+
+~~Bring tabs to Windows Explorer~~
+
+###### ⚠INVASIVE ADS SUSPICION   侵入式广告嫌疑
+
 ### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](https://lopesoft.com/index.php/en/products)｜[下载页面](https://lopesoft.com/index.php/en/download/filemenu-tools)
