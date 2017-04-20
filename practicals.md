@@ -62,9 +62,13 @@ Windows下免费翻译工具
 
 ~~打字时防止因触摸板造成的光标跳动~~
 
-###### 长期无更新
+###### ⚠官网不可用
 
 ### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 屏幕局部放大
+
+###### 长期无更新但无明显bug
+
+
 
