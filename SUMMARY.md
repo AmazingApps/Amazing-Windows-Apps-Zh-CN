@@ -8,4 +8,5 @@
 * [配置安装](configuration.md)
 * [美化工具](customization.md)
 * [数据恢复](data-recovery.md)
+* [开发工具](dev-tools.md)
 
