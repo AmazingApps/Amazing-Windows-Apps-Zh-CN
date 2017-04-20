@@ -23,4 +23,5 @@
 * [生产工具](productivity.md)
 * [隐私安全](security.md)
 * [系统增强](system.md)
+* [终端调试](terminal.md)
 
