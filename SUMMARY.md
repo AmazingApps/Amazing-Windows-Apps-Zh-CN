@@ -19,4 +19,5 @@
 * [图形图像](images.md)
 * [网络通信](internet.md)
 * [在线存储](online-storage.md)
+* [实用工具](practicals.md)
 
