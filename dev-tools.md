@@ -32,6 +32,12 @@ Windows下的便携式控制台模拟器
 
 MSQL 数据库管理
 
+### IntelliJ IDEA ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.jetbrains.com/idea/)｜[下载页面](https://www.jetbrains.com/idea/download)
+
+IDE工具集合
+
 ### Locale Emulator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://pooi.moe/Locale-Emulator/)｜[下载页面](https://github.com/xupefei/Locale-Emulator/releases)

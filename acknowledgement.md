@@ -15,6 +15,7 @@
 * [aixlx \(Lianxiao Xue\)](#)
 
 * [akina-OS](https://github.com/akina-OS)
+
 * bearJess
 * [Chen Shaoju](https://github.com/chenshaoju)
 
@@ -25,6 +26,8 @@
 * [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
 
 * greatYear
+
+* [juqkai](#)
 
 * [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071)
 
