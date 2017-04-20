@@ -29,7 +29,7 @@
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/amazing-windows-apps-zh-cn)
 
-[返回英文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps)
+[返回英文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps)｜[在线阅读英文版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
 ---
 
