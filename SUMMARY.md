@@ -6,4 +6,5 @@
 * [即时聊天](chat-client.md)
 * [压缩处理](compression.md)
 * [配置安装](configuration.md)
+* [美化工具](customization.md)
 
