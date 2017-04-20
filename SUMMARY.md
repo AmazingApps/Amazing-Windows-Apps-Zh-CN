@@ -24,4 +24,5 @@
 * [隐私安全](security.md)
 * [系统增强](system.md)
 * [终端调试](terminal.md)
+* [文本编辑](text-editor.md)
 
