@@ -24,15 +24,7 @@
 
 ~~为文件资源浏览器增加多标签特性~~
 
-~~Bring tabs to Windows Explorer~~
-
-###### ⚠INVASIVE ADS SUSPICION   侵入式广告嫌疑
-
-### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-###### [官网](https://lopesoft.com/index.php/en/products)｜[下载页面](https://lopesoft.com/index.php/en/download/filemenu-tools)
-
-右键菜单自定义
+###### ⚠侵入式广告嫌疑
 
 ### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
@@ -47,6 +39,12 @@
 调整单个UWP应用的音量
 
 ###### ⚠仅针对Windows 10的UWP应用
+
+### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网](https://lopesoft.com/index.php/en/products)｜[下载页面](https://lopesoft.com/index.php/en/download/filemenu-tools)
+
+右键菜单自定义
 
 ### GeekUninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
