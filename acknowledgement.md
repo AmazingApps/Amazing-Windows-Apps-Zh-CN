@@ -17,6 +17,7 @@
 * [akina-OS](https://github.com/akina-OS)
 
 * bearJess
+
 * [Chen Shaoju](https://github.com/chenshaoju)
 
 * [crucifyml](https://github.com/crucifyml)
@@ -26,6 +27,8 @@
 * [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
 
 * greatYear
+
+* [hizjz](#)
 
 * [juqkai](#)
 
