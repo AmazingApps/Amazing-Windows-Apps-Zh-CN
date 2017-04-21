@@ -56,6 +56,14 @@ Windows全局手势
 
 ### \[文件处理\]
 
+### 菲菲更名宝贝之得意非凡 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png)
+
+###### [官网](http://www.ffhome.com/category/works/ffrenamepro)｜[下载页面](http://www.ffhome.com/works/1406.html)
+
+进阶文件重命名工具，带有重命名需要的一切能力
+
+###### ⚠长期无更新但未发现明显的bug
+
 ### [SHAREit](http://www.ushareit.com/) 茄子快传 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 跨平台文件传输
