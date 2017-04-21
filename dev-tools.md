@@ -70,3 +70,9 @@ IDE工具集合
 
 开源Windows调试工具
 
+### XAMPP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.apachefriends.org/zh_cn/index.html)｜[下载页面](https://www.apachefriends.org/zh_cn/download.html)
+
+完全免费且易于安装的 Apache 发行版，其中包含 MariaDB、PHP 和 Perl
+
