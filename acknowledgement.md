@@ -30,6 +30,8 @@
 
 * [hizjz](#)
 
+* [idisreg](#)
+
 * [juqkai](#)
 
 * [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071)
