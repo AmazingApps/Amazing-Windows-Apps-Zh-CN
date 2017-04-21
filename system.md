@@ -8,13 +8,15 @@
 
 ~~虚拟WiFi路由软件，整洁免费~~
 
-###### 据报告有可疑行为
+###### ⚠据报告有可疑行为
 
 ### Advanced SystemCare ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网](http://www.iobit.com/en/advancedsystemcarefree.php#)｜[下载页面](http://download.cnet.com/Advanced-SystemCare-Free/3001-2086_4-10407614.html?hasJs=n&part=dl-)
 
 一站式系统优化套件
+
+###### ⚠捆绑另一款无害应用
 
 ### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
