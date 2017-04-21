@@ -36,6 +36,12 @@ UI优美、性能优秀的视频编码工具
 
 将选定区域屏幕录制为GIF或视频
 
+### Shotcut ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.shotcut.org/)｜[下载页面](https://www.shotcut.org/download/)
+
+少见的功能强大而且还开源的视频编辑工具
+
 ### [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 可针对单个视频记忆设置选项的多媒体播放器
