@@ -112,3 +112,11 @@ Python编写的艺术二维码生成器
 
 全球首家基于CBS的Dism GUI实现
 
+### \[文本编辑\]
+
+### EverEdit ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/japan.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](http://www.everedit.net/)｜[下载页面](http://www.everedit.net/download)
+
+内置Markdown预览与二进制编辑的文本编辑器
+
