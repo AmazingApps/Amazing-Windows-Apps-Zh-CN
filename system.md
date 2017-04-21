@@ -38,7 +38,9 @@
 
 调整单个UWP应用的音量
 
-###### ⚠仅针对Windows 10的UWP应用
+###### ⚠针对Windows 8.1/10的UWP应用
+
+* ###### 向下兼容Windows 8.1的版本可见于[GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS 2用户建议从应用商店安装
 
 ### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
