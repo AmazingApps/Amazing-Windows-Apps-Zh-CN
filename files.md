@@ -4,6 +4,12 @@
 
 ---
 
+### Beyond Compare ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](http://www.scootersoftware.com/)｜[下载页面](http://www.scootersoftware.com/download.php)
+
+ 高亮标注源代码、文件夹、图像等各种文件的差异
+
 ### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台文件传输工具
