@@ -16,6 +16,12 @@
 
 支持宏，Unicode，可处理大数据以及 CSV 文件的文本编辑器
 
+### EverEdit ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/japan.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](http://www.everedit.net/)｜[下载页面](http://www.everedit.net/download)
+
+内置Markdown预览与二进制编辑的文本编辑器
+
 ### [GitBook Editor](https://www.gitbook.com/editor) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 使用GitBook的GUI客户端
