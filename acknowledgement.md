@@ -44,6 +44,8 @@
 
 * [venmos \(Kuroi Mato\)](https://github.com/venmos)
 
+* [WanderMax](https://github.com/WanderMax)
+
 * [Yanda Huang](https://github.com/yodahuang)
 
 * [ZetaoYang](https://github.com/ZetaoYang)
