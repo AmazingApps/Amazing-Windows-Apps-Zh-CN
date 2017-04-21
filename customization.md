@@ -14,7 +14,7 @@
 
 改进字体渲染效果
 
-### [Rainmeter](/www.rainmeter.net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Rainmeter ](https://www.rainmeter.net/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 桌面个性化
 
