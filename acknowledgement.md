@@ -7,6 +7,7 @@
 本项目合作人：
 
 * [liulex \(Le Liu\)](https://github.com/liulex)
+* [shrderek](https://github.com/shrderek)
 * [taroxd](https://github.com/taroxd)
 
 其他个人：
