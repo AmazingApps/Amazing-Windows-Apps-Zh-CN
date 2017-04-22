@@ -4,6 +4,10 @@
 
 ---
 
+### [EMDB](http://www.emdb.eu/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+电影及电视剧追播进度记录，同时支持光盘与本地媒体文件
+
 ### [HandBrake](http://handbrake.fr/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 UI优美、性能优秀的视频编码工具
