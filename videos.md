@@ -18,6 +18,10 @@ UI优美、性能优秀的视频编码工具
 
 ###### 长期无更新
 
+### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
+
 ### mpv ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 ###### [官网](https://mpv.io/)｜[下载页面](https://mpv.io/installation/)
