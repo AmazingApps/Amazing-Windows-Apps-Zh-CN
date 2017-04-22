@@ -32,6 +32,12 @@ UI优美、性能优秀的视频编码工具
 
 屏幕录制或生成直播媒体流
 
+### Plex ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.plex.tv/)｜[下载页面](https://www.plex.tv/apps/)
+
+一站式家庭影院解决方案
+
 ### [PotPlayer](http://potplayer.daum.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 多媒体播放器，解码器众多，配置能力强
