@@ -8,6 +8,12 @@
 
 跨平台系统剪贴板同步工具
 
+### Defraggler ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网](https://www.piriform.com/defraggler)｜[下载页面](https://www.piriform.com/defraggler/download)
+
+简单有效的磁盘碎片整理工具
+
 ### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 自然语言倒计时器
