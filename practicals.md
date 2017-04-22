@@ -36,12 +36,6 @@ Windows下免费翻译工具
 
 简单地创建 U 盘启动盘
 
-### Speccy ![](/assets/图片2.png) ![](/assets/earth-globe.png)
-
-###### [官网](https://www.piriform.com/speccy)｜[下载页面](https://www.piriform.com/speccy/download/standard)
-
-了解计算机硬件详细信息
-
 ### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 拯救因大型游戏平台而告急的磁盘空间

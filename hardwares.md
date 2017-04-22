@@ -30,6 +30,12 @@ HDD/SSD信息工具，支持部分USB连接设备跟Intel RAID
 
 开源的硬件风扇转速、CPU/主板电压、温度、状态显示软件
 
+### Speccy ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网](https://www.piriform.com/speccy)｜[下载页面](https://www.piriform.com/speccy/download/standard)
+
+了解计算机硬件详细信息
+
 ### ~~护眼宝~~ ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
 
 ~~为屏幕添加蓝光过滤滤镜~~
