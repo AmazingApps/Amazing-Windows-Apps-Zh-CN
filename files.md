@@ -38,6 +38,10 @@ FTP FTPS SFTP客户端
 
 ###### ⚠️默认下载其它无害应用
 
+### [Hasher](http://www.den4b.com/products/hasher) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+文件哈希值校验工具，支持CRC32 MD2 MD4 MD5 SHA1 SHA256 SHA512 RipeMD128 RipeMD160 ED2K
+
 ### MediaCoder ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [International Website](http://mediacoderhq.com/)/[中文网](http://mediacoder.com.cn/)
