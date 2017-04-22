@@ -28,6 +28,10 @@
 
 开源网页浏览器，高度扩展性并尊重用户隐私
 
+### [HaloRadio](https://www.douban.com/note/561310960/) ![](/assets/图片2.png) ![](/assets/hong-kong.png) ![](/assets/united-states.png) ![](/assets/japan.png)
+
+在Windows享受豆瓣电台、Soundcloud、互联网收音机与Podcast
+
 ### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取
