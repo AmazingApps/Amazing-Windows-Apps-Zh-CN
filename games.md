@@ -8,6 +8,8 @@
 
 通过简单脚本修改破译本地游戏
 
+###### ⚠️默认下载其它无害应用
+
 ### [Origin](https://www.origin.com/en-in/store/) ![](/assets/earth-globe.png)
 
 类似于Steam，但属于EA

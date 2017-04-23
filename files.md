@@ -32,9 +32,9 @@
 
 FTP FTPS SFTP客户端
 
-### [~~FreeFileSync~~](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-~~简单的文件（夹）备份工具，支持镜像、双向、更新等方式~~
+简单的文件（夹）备份工具，支持镜像、双向、更新等方式
 
 ###### ⚠️默认下载其它无害应用
 

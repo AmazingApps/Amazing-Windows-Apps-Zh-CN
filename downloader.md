@@ -8,9 +8,9 @@
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
-### [~~EagleGet~~](http://www.eagleget.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [EagleGet](http://www.eagleget.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-~~免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容~~
+免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
 
 ###### ⚠️默认下载其它无害应用
 
