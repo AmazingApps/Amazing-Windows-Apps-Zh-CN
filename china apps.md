@@ -28,6 +28,12 @@
 
 视频桌面工具，附带在线视频库
 
+### \[开发工具\]
+
+### [HBuilder](http://dcloud.io/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+一站式网页前端开发套装
+
 ### \[效率工具\]
 
 ### [Desktopcal](http://www.desktopcal.com/) 桌面日历 ![](/assets/图片2.png) ![](/assets/earth-globe.png)

@@ -24,6 +24,10 @@
 
 轻量PC优化工具，屡获殊荣
 
+### [Comodo Firewall](https://personalfirewall.comodo.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+个人防火墙与HIPS防护
+
 ### Cryptomator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://cryptomator.org/)｜[下载页面](https://cryptomator.org/downloads/#allVersions)

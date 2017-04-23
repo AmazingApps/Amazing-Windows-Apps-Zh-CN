@@ -42,6 +42,12 @@ material设计的调色板
 
 简单优雅的团队wiki
 
+### Medibang Paint ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://medibangpaint.com/zh_CN/)｜[下载页面](https://medibangpaint.com/zh_CN/app-download/)
+
+可以使用云端功能，免费使用丰富素材，知名字体，多彩笔刷，操作轻便、简洁的动漫绘图软件
+
 ### [Microsoft Office](http://www.office.com) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 微软开发的生产力套装，包含：

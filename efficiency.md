@@ -32,6 +32,10 @@
 
 免费的专业文件管理器
 
+### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+
+Fences的免费替代，具备媒体文件预览功能
+
 ### [RescueTime](https://team.rescuetime.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 追踪你在应用与页面上使用的时间并给予详细活动报告

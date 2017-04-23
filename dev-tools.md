@@ -26,6 +26,10 @@ Windows下的便携式控制台模拟器
 
 使用GitHub的GUI客户端
 
+### [HBuilder](http://dcloud.io/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+一站式网页前端开发套装
+
 ### HeidiSQL ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](https://www.heidisql.com/)｜[下载页面](https://www.heidisql.com/download.php)
@@ -47,6 +51,16 @@ IDE工具集合
 ### [Scoop](https://github.com/lukesampson/scoop) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 命令行安装器
+
+### [SourceTree](https://www.sourcetreeapp.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+免费的图形化Git与Hg客户端
+
+### VirtualBox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.virtualbox.org/)｜[下载页面](https://www.virtualbox.org/wiki/Downloads)
+
+开源跨平台虚拟机应用
 
 ### Visual Studio ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
