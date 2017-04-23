@@ -4,6 +4,10 @@
 
 ---
 
+### [AkelPad](https://sourceforge.net/projects/akelpad/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+
+高度轻量化的高级文本编辑器
+
 ### Atom ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](https://atom.io/)｜[下载页面](https://github.com/atom/atom/releases)
