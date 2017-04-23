@@ -38,7 +38,7 @@
 
 优雅地加密文件
 
-### [GlassWire](https://www.glasswire.com/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [GlassWire](https://www.glasswire.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 网络通信活动监视并可视化显示
 
