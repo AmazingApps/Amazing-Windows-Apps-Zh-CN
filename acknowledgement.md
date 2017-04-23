@@ -55,6 +55,8 @@
 
 * [StrollStars](https://github.com/StrollStars)
 
+* [ts8zs \(天杀包子神\)](#)
+
 * [tttsss520](https://github.com/tttsss520)
 
 * [venmos \(Kuroi Mato\)](https://github.com/venmos)
