@@ -10,6 +10,12 @@
 
 ###### ⚠️默认下载其它无害应用
 
+### JoyToKey ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网](http://joytokey.net/en/)｜[下载页面](http://joytokey.net/en/download)
+
+使用键盘控制需要游戏手柄的游戏
+
 ### [Origin](https://www.origin.com/en-in/store/) ![](/assets/earth-globe.png)
 
 类似于Steam，但属于EA
