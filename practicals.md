@@ -18,6 +18,10 @@
 
 自然语言倒计时器
 
+### [KeyCastOW](https://brookhong.github.io/2014/04/28/keycast-on-windows.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+Windows键盘活动可视化以便录屏时展示
+
 ### NirLauncher ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://launcher.nirsoft.net/)｜[下载页面](http://launcher.nirsoft.net/downloads/index.html)
@@ -41,6 +45,10 @@ Windows下免费翻译工具
 ### [rufus](http://rufus.akeo.ie/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png)
 
 简单地创建 U 盘启动盘
+
+### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+将选定区域屏幕录制为GIF或视频
 
 ### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
