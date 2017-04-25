@@ -42,7 +42,7 @@ SSH客户端
 
 标签化的PuTTY
 
-### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 SSH与telnet客户端
 
