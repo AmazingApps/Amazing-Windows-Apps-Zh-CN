@@ -8,21 +8,21 @@
 
 图片查看管理并提供基本图像编辑
 
-### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.gimp.org/)｜[下载页面](https://www.gimp.org/downloads/)
 
 开源图像编辑器
 
-### [honeyview](http://www.bandisoft.com/honeyview/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Greenshot ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](http://getgreenshot.org/)｜[下载页面](http://getgreenshot.org/downloads/)
+
+免费开源的屏幕捕获与分享
+
+### [Honeyview](http://www.bandisoft.com/honeyview/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 超快图片查看，支持多种格式
-
-### IrfanView ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-###### [官网](http://www.irfanview.com/)｜[下载页面](http://www.irfanview.com/main_download_engl.htm)
-
-图像查看编辑管理与转换。也可以播放视频与音频，具备一些图像创作工具
 
 ### Inkscape ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
