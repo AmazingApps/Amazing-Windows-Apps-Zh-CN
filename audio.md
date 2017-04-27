@@ -34,11 +34,11 @@
 
 从CD向PC传输文件
 
-### foobar2000 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### foobar2000 ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://www.foobar2000.org/)｜[下载页面](http://www.foobar2000.org/download)
 
-免费开源音频播放器，具备高度定制化能力
+免费音频播放器，具备高度定制化能力
 
 ### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
