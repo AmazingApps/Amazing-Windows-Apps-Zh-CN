@@ -50,6 +50,12 @@ Windows下免费翻译工具
 
 将选定区域屏幕录制为GIF或视频
 
+### spacedesk ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://www.spacedesk.net/)｜[下载页面 Download Page](http://spacedesk.ph/download/)
+
+将本地网咯中的其它设备作为扩展屏幕
+
 ### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 拯救因大型游戏平台而告急的磁盘空间
