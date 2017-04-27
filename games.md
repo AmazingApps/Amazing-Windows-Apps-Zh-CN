@@ -20,6 +20,10 @@
 
 类似于Steam，但属于EA
 
+### [Remotr](http://remotrapp.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+在其它任何设备上远程享受PC游戏
+
 ### [Steam](http://store.steampowered.com/) ![](/assets/earth-globe.png)
 
 最大在线游戏零售平台
