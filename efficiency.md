@@ -8,11 +8,17 @@
 
 放置于Windows桌面上的日历，用做备忘
 
+### Double Commander ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://doublecmd.sourceforge.io/)｜[下载页面](https://sourceforge.net/p/doublecmd/wiki/Download/)
+
+开源跨平台文件管理器，受Total Commander启发并加入新特性
+
 ### [Everything](http://www.voidtools.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 最快速的文件/文件名搜索工具
 
-### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://freecommander.com/en/summary/)｜[下载页面](http://freecommander.com/en/downloads/)
 
