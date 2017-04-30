@@ -50,6 +50,10 @@ UWP风格UI的笔记本应用
 
 可定制化的编辑器，实时显示代码反馈与数据流
 
+### [Markdown Plus](http://tylingsoft.com/markdown-plus/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
+
 ### Notepad++ ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](https://notepad-plus-plus.org/)｜[下载页面](https://notepad-plus-plus.org/download/v7.3.3.html)
