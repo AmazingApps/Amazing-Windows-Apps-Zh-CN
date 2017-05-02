@@ -80,7 +80,7 @@ Windows全局手势
 
 记录简单应用详情的数据库式的启动器
 
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
 
 视频引索管理器
 
