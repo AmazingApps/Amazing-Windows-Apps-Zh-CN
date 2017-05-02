@@ -9,6 +9,7 @@
 * [BBcaptain \(CaptainCode\)](https://github.com/BBcaptain)
 
 * [liulex \(Le Liu\)](https://github.com/liulex)
+
 * [shrderek](https://github.com/shrderek)
 * [taroxd](https://github.com/taroxd)
 
@@ -83,6 +84,7 @@
 
 * [小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
 * [点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
+* [OLEREO!](http://olereo.com/links)
 * [少数派](https://sspai.com/post/38866)
 
 ![](/assets/windows_logo.png)
