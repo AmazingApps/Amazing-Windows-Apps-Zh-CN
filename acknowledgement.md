@@ -11,6 +11,7 @@
 * [liulex \(Le Liu\)](https://github.com/liulex)
 
 * [shrderek](https://github.com/shrderek)
+
 * [taroxd](https://github.com/taroxd)
 
 其他个人：
@@ -31,6 +32,8 @@
 * Der Letzte Wächter
 
 * [dzlzh \(DZLZH](https://github.com/dzlzh)\)
+
+* [e32ubhds](#)
 
 * [ElTopo](#)
 
