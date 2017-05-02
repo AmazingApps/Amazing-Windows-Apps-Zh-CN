@@ -18,6 +18,12 @@
 
 最快速的文件/文件名搜索工具
 
+### [Find and Run Robot](https://www.donationcoder.com/Software/Mouser/findrun/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+可高度自定义的启动器
+
+A launcher with highly cumstomizable features
+
 ### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://freecommander.com/en/summary/)｜[下载页面](http://freecommander.com/en/downloads/)
