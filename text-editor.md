@@ -78,7 +78,7 @@ Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持�
 
 简洁MarkDown阅读编写应用
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-建立调试网页及云端工具
+微软出品的开源文本编辑器
 
