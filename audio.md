@@ -58,6 +58,10 @@ DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
 
 免费DJ软件，有live mixes需要的一切
 
+### [mStream](http://mstream.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+跨平台播放任意设备的音频流
+
 ### Musicbee ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://getmusicbee.com/)｜[下载页面](http://getmusicbee.com/downloads/)
