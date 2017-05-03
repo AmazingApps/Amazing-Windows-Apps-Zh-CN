@@ -20,6 +20,10 @@
 
 附带的许多特性显著增强了Chromium浏览器的体验
 
+### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+ 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
+
 ### Firefox 火狐 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### also Mozilla Firefox
