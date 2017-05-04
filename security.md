@@ -46,6 +46,8 @@
 
 病毒防护软件，PUA防护表现惊艳
 
+###### ⚠可通过自身设置取消的主页绑定
+
 ### [Kaspersky Free](https://www.kaspersky.com.cn/downloads#tools) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/russia.png)
 
 卡巴斯基防病毒免费版，俄语国家与中国可用
