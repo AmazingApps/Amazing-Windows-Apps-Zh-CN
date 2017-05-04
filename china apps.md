@@ -126,6 +126,8 @@ Python编写的艺术二维码生成器
 
 病毒防护软件，PUA防护表现惊艳
 
+###### ⚠可通过自身设置取消的主页绑定
+
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
