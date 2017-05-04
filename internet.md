@@ -22,7 +22,7 @@
 
 ### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
- 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
+一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
 
 ### Firefox 火狐 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
@@ -69,4 +69,8 @@
 ### [Vivaldi](https://vivaldi.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 同样基于chromium的优秀浏览器
+
+### [ZeroNet ](https://zeronet.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+开源跨平台的去中心化网络框架
 
