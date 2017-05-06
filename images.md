@@ -8,7 +8,7 @@
 
 图片查看管理并提供基本图像编辑
 
-### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Gimp ![](/assets/图片2.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.gimp.org/)｜[下载页面](https://www.gimp.org/downloads/)
 
