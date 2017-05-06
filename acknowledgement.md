@@ -35,5 +35,6 @@
 * [OLEREO!](http://olereo.com/links)
 * [少数派](https://sspai.com/post/38866)
 
-![](/assets/windows_logo.png)
-
+<p align="center">
+ <img src="/assets/windows_logo.png"/>
+</p>
