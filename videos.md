@@ -50,6 +50,8 @@ UI优美、性能优秀的视频编码工具
 
 多媒体播放器，解码器众多，配置能力强
 
+###### ⚠[FFmpeg PUBLIC LICENSE VIOLATED   违反FFmpeg公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)
+
 ### Shotcut ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.shotcut.org/)｜[下载页面](https://www.shotcut.org/download/)
