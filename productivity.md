@@ -34,7 +34,7 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 开源Office套装
 
-### [Materialette](https://github.com/mike-schultz/materialette) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Materialette](https://github.com/mike-schultz/materialette) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 material设计的调色板
 
