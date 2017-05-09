@@ -48,6 +48,12 @@ A launcher with highly cumstomizable features
 
 Fences的免费替代，具备媒体文件预览功能
 
+### Q-Dir ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网](http://www.softwareok.com/?seite=Freeware/Q-Dir)｜[下载页面](http://www.softwareok.com/?Download=Q-Dir)
+
+独到的四屏比对的高级文件管理器
+
 ### [RescueTime](https://team.rescuetime.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 追踪你在应用与页面上使用的时间并给予详细活动报告
