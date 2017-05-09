@@ -20,6 +20,12 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 开源Windows脚本语言，用户可以轻松创建各种脚本完成各种任务
 
+### AutoIt ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网](https://www.autoitscript.com/site/autoit/)｜[下载页面](https://www.autoitscript.com/site/autoit/downloads/)
+
+类BASIC脚本语言，用于Windows GUI的自动化以及编写一般脚本
+
 ### Cortana ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 微软开发的Windows 10内置个人助理
