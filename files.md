@@ -14,6 +14,12 @@
 
 开源跨平台文件传输工具
 
+### **Duplicate Cleaner** ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网](https://www.digitalvolcano.co.uk/duplicatecleaner.html)｜[下载页面](https://www.digitalvolcano.co.uk/dcdownloads.html)
+
+支持子目录搜索或MD5码搜索的重复文件查询工具
+
 ### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 快速复制、同步、删除文件
