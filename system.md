@@ -78,21 +78,27 @@
 
 监控优化系统内存
 
+### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+增强型任务管理器， 允许终结一些系统的关键进程
+
 ### Process Hacker ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](https://wj32.org/processhacker/index.php)｜[下载页面](https://wj32.org/processhacker/downloads.php)
 
 多功能进程管理工具
 
-### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Process Lasso](https://bitsum.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-增强型任务管理器， 允许终结一些系统的关键进程
+ Adjust processes priority to prevent CPU unresponsing on some devices
+
+自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
 
 ### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式Explorer增强工具
 
-###### 长期无更新但未发现明显的bug
+###### ⚠长期无更新但未发现明显的bug
 
 ### Rapid Environment Editor ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
