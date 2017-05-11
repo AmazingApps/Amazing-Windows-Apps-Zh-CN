@@ -22,6 +22,12 @@
 
 Windows键盘活动可视化以便录屏时展示
 
+### [LICEcap](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+
+屏幕录制并保存为GIF
+
+###### ⚠长期无更新但无明显bug
+
 ### NirLauncher ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://launcher.nirsoft.net/)｜[下载页面](http://launcher.nirsoft.net/downloads/index.html)
@@ -83,4 +89,6 @@ Windows下免费翻译工具
 屏幕局部放大
 
 ###### ⚠长期无更新但无明显bug
+
+
 

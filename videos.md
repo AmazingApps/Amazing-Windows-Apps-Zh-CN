@@ -20,12 +20,6 @@ UI优美、性能优秀的视频编码工具
 
 免费开源家庭影院软件
 
-### [~~LICEcap~~](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
-
-~~屏幕录制并保存为GIF~~
-
-###### 长期无更新
-
 ### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
