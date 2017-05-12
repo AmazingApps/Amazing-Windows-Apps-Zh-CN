@@ -28,6 +28,12 @@
 
 无损分区工具，提供简单、易用的磁盘分区管理操作
 
+### cFosSpeed ![](/assets/earth-globe.png)
+
+###### [官网](https://www.cfos.de/zh-cn/cfosspeed/cfosspeed.htm)｜[下载页面](https://www.cfos.de/zh-cn/download/download.htm)
+
+为不同进程调节不同的网络占用优先级并帮助降低延时
+
 ### ~~Clover~~ ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ~~为文件资源浏览器增加多标签特性~~
@@ -90,7 +96,7 @@
 
 ### [Process Lasso](https://bitsum.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
- Adjust processes priority to prevent CPU unresponsing on some devices
+Adjust processes priority to prevent CPU unresponsing on some devices
 
 自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
 
