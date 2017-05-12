@@ -29,6 +29,8 @@
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
+变更详情可[见于此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/master)
+
 ---
 
 ### 标识说明
