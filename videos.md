@@ -68,3 +68,7 @@ UI优美、性能优秀的视频编码工具
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
 
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+
+视频引索管理器
+
