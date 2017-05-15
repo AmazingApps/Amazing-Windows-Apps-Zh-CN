@@ -24,6 +24,12 @@
 
 超快图片查看，支持多种格式
 
+### ImageMagick ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.imagemagick.org/script/index.php)｜[下载页面](https://www.imagemagick.org/script/download.php)
+
+具备命令行支持的多功能图像处理工具
+
 ### Inkscape ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://inkscape.org/en/)｜[下载页面](https://inkscape.org/en/download/windows/)
