@@ -36,6 +36,7 @@
 * [点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
 * [OLEREO!](http://olereo.com/links)
 * [少数派](https://sspai.com/post/38866)
+* [03k   零散坑](https://03k.org)
 
 <p align="center">
  <img src="/assets/windows_logo.png"/>
