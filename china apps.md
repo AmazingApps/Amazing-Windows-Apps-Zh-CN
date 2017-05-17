@@ -106,14 +106,6 @@ Python编写的艺术二维码生成器
 
 同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
 
-### UC Browser ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
-
-###### [官网](http://www.ucweb.com/)｜[下载页面](http://www.ucweb.com/ucbrowser/download/)
-
-* ###### 此处指国际版，请注意与国内版相区别
-
-基于Trident的网页浏览器，内置多项增强
-
 ### \[实用程序\]
 
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
