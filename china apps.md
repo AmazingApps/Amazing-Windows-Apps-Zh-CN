@@ -154,7 +154,7 @@ Python编写的艺术二维码生成器
 
 内置Markdown预览与二进制编辑的文本编辑器
 
-### LeaNote ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Leanote 蚂蚁笔记![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
 

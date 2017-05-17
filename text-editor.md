@@ -46,7 +46,7 @@
 
 UWP风格UI的笔记本应用
 
-### LeaNote ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Leanote 蚂蚁笔记![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
 
