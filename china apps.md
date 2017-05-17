@@ -100,6 +100,12 @@ Python编写的艺术二维码生成器
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
 
+### [Maxthon](http://www.maxthon.com/mx5/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+* ###### 此处指国际版，请注意与国内版相区别
+
+同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
+
 ### \[实用程序\]
 
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)

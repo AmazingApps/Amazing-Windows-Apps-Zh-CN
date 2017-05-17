@@ -36,6 +36,12 @@
 
 在Windows享受豆瓣电台、Soundcloud、互联网收音机与Podcast
 
+### [Maxthon](http://www.maxthon.com/mx5/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+* ###### 此处指国际版，请注意与国内版相区别
+
+同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
+
 ### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取
