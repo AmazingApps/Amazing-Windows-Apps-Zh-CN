@@ -46,6 +46,12 @@
 
 UWP风格UI的笔记本应用
 
+### LeaNote ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
+
+支持 Markdown 的开源云笔记，也可以搭建个人博客
+
 ### [Light Table](http://lighttable.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 可定制化的编辑器，实时显示代码反馈与数据流
