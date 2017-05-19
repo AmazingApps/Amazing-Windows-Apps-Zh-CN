@@ -28,6 +28,12 @@
 
 无损分区工具，提供简单、易用的磁盘分区管理操作
 
+### AquaSnap ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网](http://www.nurgo-software.com/products/aquasnap)｜[下载页面](http://www.nurgo-software.com/pricing/aquasnap)
+
+为窗口添加全局动作特效，显著提升多窗口操作效率
+
 ### cFosSpeed ![](/assets/earth-globe.png)
 
 ###### [官网](https://www.cfos.de/zh-cn/cfosspeed/cfosspeed.htm)｜[下载页面](https://www.cfos.de/zh-cn/download/download.htm)
