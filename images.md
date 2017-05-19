@@ -78,6 +78,10 @@ Python编写的艺术二维码生成器
 
 桌面壁纸软件
 
+### [XnConvert](http://www.xnview.com/en/xnconvert/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+免费跨平台图片批量转换工具，内置微调滤镜
+
 ### Xnview ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://www.xnview.com/en/)｜[下载页面](http://www.xnview.com/en/xnview/#downloads)
