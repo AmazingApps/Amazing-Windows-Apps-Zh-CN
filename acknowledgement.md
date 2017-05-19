@@ -7,11 +7,9 @@
 本项目合作人：
 
 * [BBcaptain \(CaptainCode\)](https://github.com/BBcaptain)
-
 * [liulex \(Le Liu\)](https://github.com/liulex)
-
+* [lrinQVQ](https://github.com/lrinQVQ)
 * [shrderek](https://github.com/shrderek)
-
 * [taroxd](https://github.com/taroxd)
 
 其他个人：
