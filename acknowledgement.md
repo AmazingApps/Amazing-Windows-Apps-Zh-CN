@@ -33,6 +33,7 @@
 第三方宣传：
 
 * [小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
+* [阿七's BLOG](https://aptx4869.tech/2017/05/19/wapps/)
 * [点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
 * [蚂蚁笔记](https://leanote.com/)
 * [OLEREO!](http://olereo.com/links)
