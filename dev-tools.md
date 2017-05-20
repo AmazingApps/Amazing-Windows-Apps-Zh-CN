@@ -68,11 +68,17 @@ IDE工具集合
 
 终极微软开发者工具
 
-### VMware Workstation Player ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### VMware Workstation Player ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.vmware.com/)｜[下载页面](https://www.vmware.com/products/player/playerpro-evaluation.html)
 
 性能强劲的虚拟机应用
+
+### VMware Workstation Pro ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.vmware.com/)｜[下载页面](https://www.vmware.com/go/downloadworkstation)
+
+在隔离的安全虚拟化环境中评估新的操作系统、软件应用和补丁程序以及参考体系结构
 
 ### Windows Sysinternals ![](/assets/图片2.png) ![](/assets/united-states.png)
 
