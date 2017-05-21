@@ -70,6 +70,10 @@
 
 网络通信控制与监视工具
 
+### [Pcap\_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具，支持多服务器并行请求能以提高在恶劣网络环境下域名解析的可靠性
+
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
