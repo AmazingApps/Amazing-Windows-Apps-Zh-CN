@@ -28,6 +28,12 @@
 
 开始菜单个性化；还原旧版开始
 
+### [TGFont](https://github.com/ysc3839/TGFont) ![](/assets/图片2.png) ![](/assets/open-source-icon.png)
+
+修改Telegram Windows 桌面版字体的简单hook（钩子）
+
+###### 📌该项目没有UI，也没有目录构架，因此不存在UI语言或是否便携化的问题
+
 ### [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 任务栏透明化
