@@ -104,7 +104,7 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 使用可视化树状图布局以直观展示大文件（夹）的磁盘占用情况
 
-### [TeraCopy](/www.codesector.com/teracopy) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [TeraCopy](http://www.codesector.com/teracopy) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 更快速安全的文件复制方案，帮助解决复制错误、支持文件效验与拖放操作
 
