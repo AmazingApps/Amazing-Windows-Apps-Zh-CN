@@ -4,6 +4,18 @@
 
 ---
 
+### Discord ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://discordapp.com/)｜[下载页面](https://discordapp.com/download)
+
+为游戏社区设计，具备DDoS防护游戏内嵌布局功能
+
+### LINE 连我 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://line.me/zh-hans/)｜[下载页面](https://line.me/zh-hans/download)
+
+即时通信软件，免费语音视频的同时可向未安装客户端的用户发起呼叫
+
 ### mIRC ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://www.mirc.com/)｜[下载页面](http://www.mirc.com/get.html)
