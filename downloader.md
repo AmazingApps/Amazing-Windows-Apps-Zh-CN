@@ -26,6 +26,10 @@
 
 有效的下载加速器，具备响应错链解决能力
 
+### [Persepolis Download Manager](https://github.com/persepolisdm/persepolis) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+简单易用优雅的跨平台aria2 GUI客户端
+
 ### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.qbittorrent.org/)｜[下载页面](https://www.qbittorrent.org/download.php)
