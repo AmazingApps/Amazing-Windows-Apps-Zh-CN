@@ -70,12 +70,6 @@ Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多
 
 开源跨平台RSS/Atom阅读器
 
-### Retroshare ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
-
-###### [官网](http://retroshare.net/)｜[下载页面](http://retroshare.net/downloads.html)
-
-免费开源适用于亲友间的安全的去中心化交流平台，可用于聊天、语音视频、分享文件、论坛等
-
 ### [SoundWire](http://georgielabs.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 使用无线传输音频，从PC到Android、平板或者其它PC
