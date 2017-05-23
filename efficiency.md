@@ -48,6 +48,12 @@ A launcher with highly cumstomizable features
 
 Fences的免费替代，具备媒体文件预览功能
 
+### Outlook on the Desktop ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+
+###### [官网](https://outlookonthedesktop.com/)｜[下载页面](https://outlookonthedesktop.com/download)
+
+在桌面直接且完整地调用Outlook功能
+
 ### Q-Dir ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://www.softwareok.com/?seite=Freeware/Q-Dir)｜[下载页面](http://www.softwareok.com/?Download=Q-Dir)
