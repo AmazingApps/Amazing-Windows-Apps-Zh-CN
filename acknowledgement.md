@@ -39,7 +39,7 @@
     * [蚂蚁笔记](https://leanote.com/)
     * [OLEREO!](http://olereo.com/links)
     * [零散坑](https://03k.org)
-
+    * [萌月神社](http://blog.ciovem.org/)
 
 
 <p align="center">
