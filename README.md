@@ -47,7 +47,8 @@
 
 ![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png) 开源软件
+![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址
+
 
 ![](/assets/usb.png) 便携软件或可便携安装：不写入注册表和用户、系统目录，所有配置全写在软件目录下
 
