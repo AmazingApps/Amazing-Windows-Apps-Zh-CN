@@ -118,6 +118,12 @@ Adjust processes priority to prevent CPU unresponsing on some devices
 
 编辑系统环境变量信息
 
+### Startup Delayer ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网](http://www.r2.com.au/page/products/show/startup-delayer/)｜[下载页面](http://www.r2.com.au/page/products/download/startup-delayer/)
+
+根据CPU与磁盘运行情况在登录到系统时延时第三方程序的自启过程
+
 ### Winaero Tweaker ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](http://winaero.com/comment.php?comment.news.1836)｜[下载页面](http://winaero.com/request.php?1796)
