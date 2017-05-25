@@ -30,7 +30,7 @@ HDD/SSD信息工具，支持部分USB连接设备跟Intel RAID
 
 ###### ⚠有用户报告安装不正确驱动
 
-### Open Hardware Monitor ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### Open Hardware Monitor ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/openhardwaremonitor/openhardwaremonitor")](https://github.com/openhardwaremonitor/openhardwaremonitor) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://openhardwaremonitor.org/)｜[下载页面 Download Page](http://openhardwaremonitor.org/downloads/)
 
