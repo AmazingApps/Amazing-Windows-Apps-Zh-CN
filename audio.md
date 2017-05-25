@@ -10,7 +10,7 @@
 
 轻巧的本地音频播放器，支持多种格式，并具备音频管理功能
 
-### Audacity ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Audacity ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 ](http://www.audacityteam.org/)｜[下载页面](http://www.audacityteam.org/download/windows/)
 
@@ -22,7 +22,7 @@
 
 支持插入到许多其它音频播放器的歌词下载展示模块，网络数据库量大
 
-### Dopamine ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Dopamine ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@Github: https://github.com/digimezzo/Dopamine")](https://github.com/digimezzo/Dopamine) ![](/assets/earth-globe.png)
 
 ###### [官网](http://www.digimezzo.com/software/dopamine/)｜[下载页面](http://www.digimezzo.com/content/software/dopamine/)
 
@@ -44,21 +44,21 @@
 
 DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
 
-### [listen1](http://listen1.github.io/listen1) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### [listen1](http://listen1.github.io/listen1) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@Github: https://github.com/listen1/listen1_desktop")](https://github.com/listen1/listen1_desktop) ![](/assets/china.png) ![](/assets/united-states.png)
 
 一站式免费音乐集合
 
-### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/)  ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 支持GIF背景的极简音频播放器
 
-### Mixxx ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Mixxx ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](/assets/earth-globe.png)
 
 ###### [官网](http://mixxx.org/)｜[下载页面](http://mixxx.org/download/)
 
 免费DJ软件，有live mixes需要的一切
 
-### [mStream](http://mstream.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [mStream](http://mstream.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@Github:  https://github.com/IrosTheBeggar/mStream")](https://github.com/IrosTheBeggar/mStream) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 跨平台播放任意设备的音频流
 
@@ -68,13 +68,13 @@ DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
 
 管理、查找、播放本地音频。类似于iTunes但更好
 
-### MusicBrainz Picard ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### MusicBrainz Picard ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/metabrainz/picard")](https://github.com/metabrainz/picard) ![](/assets/earth-globe.png)
 
 ###### [官网](https://picard.musicbrainz.org/)｜[下载页面](https://picard.musicbrainz.org/downloads/)
 
 跨平台音频标签处理，可在线查询并重写元数据标签
 
-### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### TTKMusicplayer ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [官网](http://download.csdn.net/album/detail/3094)｜[下载页面](http://download.csdn.net/album/detail/3094)
 
