@@ -22,13 +22,13 @@
 
 网络回路聊天客户端
 
-### Quassel ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Quassel ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@GitHub: https://github.com/quassel/quassel")](https://github.com/quassel/quassel) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://quassel-irc.org/)｜[下载页面](http://quassel-irc.org/downloads)
 
 现代设计的跨平台分布式IRC
 
-### [Telegram](https://desktop.telegram.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Telegram](https://desktop.telegram.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 专注于速度与安全性的通信应用
 
