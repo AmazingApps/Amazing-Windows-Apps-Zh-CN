@@ -8,7 +8,7 @@
 
 放置于Windows桌面上的日历，用做备忘
 
-### Double Commander ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Double Commander ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/doublecmd/")](https://sourceforge.net/projects/doublecmd/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://doublecmd.sourceforge.io/)｜[下载页面](https://sourceforge.net/p/doublecmd/wiki/Download/)
 
@@ -30,7 +30,7 @@ A launcher with highly cumstomizable features
 
 简单易用的Windows标准文件管理器替代
 
-### Launchy ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Launchy ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/launchy/")](https://sourceforge.net/projects/launchy/) ![](/assets/earth-globe.png)
 
 ###### [官网](http://www.launchy.net/)｜[下载页面](http://www.launchy.net/download.php)
 
@@ -48,7 +48,7 @@ A launcher with highly cumstomizable features
 
 Fences的免费替代，具备媒体文件预览功能
 
-### Outlook on the Desktop ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### Outlook on the Desktop ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/mscrivo/ootd")](https://github.com/mscrivo/ootd) ![](/assets/united-states.png)
 
 ###### [官网](https://outlookonthedesktop.com/)｜[下载页面](https://outlookonthedesktop.com/download)
 
@@ -76,7 +76,7 @@ Fences的免费替代，具备媒体文件预览功能
 
 Windows最佳文件管理
 
-### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](/assets/china.png) ![](/assets/united-states.png)
 
 Windows全局手势
 
@@ -90,11 +90,11 @@ Windows全局手势
 
 免费专业的托盘
 
-### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](/assets/earth-globe.png)
 
 高效启动器
 
-### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
 
 记录简单应用详情的数据库式的启动器
 
