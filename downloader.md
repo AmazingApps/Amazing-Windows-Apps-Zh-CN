@@ -4,7 +4,7 @@
 
 ---
 
-### [aria2](https://aria2.github.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [aria2](https://aria2.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/aria2/aria2")](https://github.com/aria2/aria2) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
@@ -26,11 +26,11 @@
 
 有效的下载加速器，具备响应错链解决能力
 
-### [Persepolis Download Manager](https://github.com/persepolisdm/persepolis) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [Persepolis Download Manager](https://persepolisdm.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/persepolisdm/persepolis")](https://github.com/persepolisdm/persepolis) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 简单易用优雅的跨平台aria2 GUI客户端
 
-### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### qBittorrent ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/qbittorrent/")](https://sourceforge.net/projects/qbittorrent/) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.qbittorrent.org/)｜[下载页面](https://www.qbittorrent.org/download.php)
 
@@ -42,23 +42,23 @@
 
 P2P文件同步
 
-### uGet ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### uGet ![](/assets/图片2.png) [![](/assets/open-source-icon.png "LGPL 2.0@SourceForge: https://sourceforge.net/projects/urlget/")](https://sourceforge.net/projects/urlget/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://ugetdm.com/)｜[下载页面](http://ugetdm.com/downloads)
 
 轻量级多功能下载器，支持含BT在内的所有常见协议的同时兼容 Curl 与 aria2
 
-### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/webtorrent/webtorrent-desktop")](https://github.com/webtorrent/webtorrent-desktop) ![](/assets/earth-globe.png)
 
 实时播放种子中的媒体流
 
-### you-get ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### you-get ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/webtorrent/webtorrent-desktop")](https://github.com/webtorrent/webtorrent-desktop) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](https://you-get.org/)｜[下载页面](https://github.com/soimort/you-get/releases)
 
 视频音频嗅探器
 
-### youtube-dl ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### youtube-dl ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/rg3/youtube-dl/")](https://github.com/rg3/youtube-dl/) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](http://rg3.github.io/youtube-dl/)｜[下载页面](http://rg3.github.io/youtube-dl/download.html)
 
