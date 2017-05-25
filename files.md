@@ -16,7 +16,7 @@
 
 高亮标注源代码、文件夹、图像等各种文件的差异
 
-### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/dukto/")](https://sourceforge.net/projects/dukto/) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台文件传输工具
 
@@ -26,7 +26,7 @@
 
 支持子目录搜索或MD5码搜索的重复文件查询工具
 
-### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@ipmsg.org: https://ipmsg.org/tools/fastcopy.html.en")](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 快速复制、同步、删除文件
 
@@ -38,13 +38,13 @@
 
 ###### ⚠长期无更新但未发现明显的bug
 
-### FileZilla ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### FileZilla ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/filezilla/")](https://sourceforge.net/projects/filezilla/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://filezilla-project.org/)｜[下载页面](https://filezilla-project.org/download.php?show_all=1)
 
 FTP FTPS SFTP客户端
 
-### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@freefilesync.org: https://www.freefilesync.org/download.php")](https://www.freefilesync.org/download.php) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 简单的文件（夹）备份工具，支持镜像、双向、更新等方式
 
@@ -60,11 +60,11 @@ FTP FTPS SFTP客户端
 
 免费的通用影音转码工具
 
-### [Meld](http://meldmerge.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [Meld](http://meldmerge.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/GNOME/meld")](https://github.com/GNOME/meld) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 可视化文件文件夹对比
 
-### [Pandoc](http://pandoc.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Pandoc](http://pandoc.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/jgm/pandoc")](https://github.com/jgm/pandoc) ![](/assets/united-states.png)
 
 通用文档转换器
 
@@ -78,7 +78,7 @@ FTP FTPS SFTP客户端
 
 获取Windows可执行文件（EXE DLL SCR MUI等）中的资源文件
 
-### [rimraf](https://www.npmjs.com/package/rimraf) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [rimraf](https://www.npmjs.com/package/rimraf) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "ISC@GitHub: https://github.com/isaacs/rimraf")](https://github.com/isaacs/rimraf) ![](/assets/united-states.png)
 
 node使用的深度删除模块。删除深目录文件（夹）
 
@@ -98,13 +98,13 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 跨平台文件传输
 
-### SpaceSniffer ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### SpaceSniffer ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 ###### [官网](http://www.uderzo.it/main_products/space_sniffer/index.html)｜[下载页面](http://www.uderzo.it/main_products/space_sniffer/download.html)
 
 使用可视化树状图布局以直观展示大文件（夹）的磁盘占用情况
 
-### [Syncthing](https://syncthing.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Syncthing](https://syncthing.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/syncthing/syncthing")](https://github.com/syncthing/syncthing) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 不依赖云服务器即可在多计算机之间简单安全地同步文件
 
@@ -116,7 +116,7 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 向iPhone iTunes传输电影音频文件
 
-### WinMerge ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### WinMerge ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/winmerge/")](https://sourceforge.net/projects/winmerge/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://winmerge.org/)｜[下载页面](http://winmerge.org/downloads/)
 
