@@ -42,7 +42,7 @@ Windows下的便携式控制台模拟器
 
 MSQL 数据库管理
 
-### IntelliJ IDEA ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### IntelliJ IDEA ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@jetbrains.org: http://www.jetbrains.org/display/IJOS/Download")](http://www.jetbrains.org/display/IJOS/Download) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.jetbrains.com/idea/)｜[下载页面](https://www.jetbrains.com/idea/download)
 
@@ -74,13 +74,13 @@ IDE工具集合
 
 终极微软开发者工具
 
-### VMware Workstation Player ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### VMware Workstation Player ![](/assets/图片2.png) [![](/assets/open-source-icon.png "30+ LISENCES@vmware.com: https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0%7CPLAYER-1256%7Copen_source")](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0%7CPLAYER-1256%7Copen_source) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.vmware.com/)｜[下载页面](https://www.vmware.com/products/player/playerpro-evaluation.html)
 
 性能强劲的虚拟机应用
 
-### VMware Workstation Pro ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### VMware Workstation Pro [![](/assets/open-source-icon.png "30+ LISENCES@vmware.com: https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source")](https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.vmware.com/)｜[下载页面](https://www.vmware.com/go/downloadworkstation)
 
