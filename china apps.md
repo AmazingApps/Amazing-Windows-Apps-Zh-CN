@@ -8,15 +8,15 @@
 
 ### \[音频文件\]
 
-### [listen1](http://listen1.github.io/listen1) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### [listen1](http://listen1.github.io/listen1) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/listen1/listen1")](https://github.com/listen1/listen1) ![](/assets/china.png) ![](/assets/united-states.png)
 
 一站式免费音乐集合
 
-### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@SourceForge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 支持GIF背景的极简音频播放器
 
-### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### TTKMusicplayer ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [官网 ](http://download.csdn.net/album/detail/3094)｜[下载页面](http://download.csdn.net/album/detail/3094)
 
@@ -58,15 +58,15 @@
 
 简单强大的截图工具并可以将截图贴到桌面；截图元素检测功能惊艳
 
-### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yingDev/WGestures")](https://github.com/yingDev/WGestures) ![](/assets/china.png) ![](/assets/united-states.png)
 
 Windows全局手势
 
-### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](/assets/earth-globe.png)
 
 高效启动器
 
-### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
 
 记录简单应用详情的数据库式的启动器
 
@@ -86,7 +86,7 @@ Windows全局手势
 
 ### \[图形图像\]
 
-### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](/assets/united-states.png)
 
 Python编写的艺术二维码生成器
 
@@ -96,7 +96,7 @@ Python编写的艺术二维码生成器
 
 从Windows中发起traceroute请求并可视化展示
 
-### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
 
@@ -114,7 +114,7 @@ Python编写的艺术二维码生成器
 
 ### \[生产工具\]
 
-### [amWiki](https://github.com/TevinLi/amWiki) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [amWiki](https://github.com/TevinLi/amWiki) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](/assets/united-states.png)
 
 基于JavaScript、依赖于Atom编辑器、应用MarkDown标记的wiki文档系统
 
@@ -122,7 +122,7 @@ Python编写的艺术二维码生成器
 
 一站式字体管理、预览、备份与范例展示
 
-### XMind ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### XMind ![](/assets/图片2.png) [![](/assets/open-source-icon.png "EPL 1.0 & LGPL 3.0@GitHub: https://github.com/xmindltd/xmind")](https://github.com/xmindltd/xmind) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://www.xmind.net/)｜[下载页面](http://www.xmind.net/download/win/)
 
@@ -136,7 +136,7 @@ Python编写的艺术二维码生成器
 
 ###### ⚠可通过自身设置取消的主页绑定
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 
@@ -148,7 +148,7 @@ Python编写的艺术二维码生成器
 
 无损分区工具，提供简单、易用的磁盘分区管理操作
 
-### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Chuyu-Team/Dism-Multi-language")](https://github.com/Chuyu-Team/Dism-Multi-language) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 全球首家基于CBS的Dism GUI实现
 
@@ -160,7 +160,7 @@ Python编写的艺术二维码生成器
 
 内置Markdown预览与二进制编辑的文本编辑器
 
-### Leanote 蚂蚁笔记![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Leanote 蚂蚁笔记![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
 
@@ -168,7 +168,7 @@ Python编写的艺术二维码生成器
 
 ### \[视频工具\]
 
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)
 
 视频引索管理器
 
