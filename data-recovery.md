@@ -24,7 +24,7 @@
 
 通过网络远程恢复数据
 
-### TestDisk ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### TestDisk ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL v2+@cgsecurity.org: http://www.cgsecurity.org/wiki/TestDisk_Download")](http://www.cgsecurity.org/wiki/TestDisk_Download) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](http://www.cgsecurity.org/wiki/TestDisk)｜[下载页面](http://www.cgsecurity.org/wiki/TestDisk_Download)
 
