@@ -4,7 +4,7 @@
 
 ---
 
-### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/usb.png)
+### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/acrylic/")](https://sourceforge.net/projects/acrylic/) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/usb.png)
 
 本地DNS代理，缓存DNS服务器回应并通过设置hosts文件防止恶意广告
 
@@ -28,7 +28,7 @@
 
 个人防火墙与HIPS防护
 
-### Cryptomator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Cryptomator ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT X Consortium & Others@GitHub: https://github.com/cryptomator/cryptomator")](https://github.com/cryptomator/cryptomator) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://cryptomator.org/)｜[下载页面](https://cryptomator.org/downloads/#allVersions)
 
@@ -52,7 +52,7 @@
 
 卡巴斯基防病毒免费版，俄语国家与中国可用
 
-### KeePass ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### KeePass ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0+@SourceForge: https://sourceforge.net/projects/keepass/")](https://sourceforge.net/projects/keepass/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://keepass.info/)｜[下载页面](http://keepass.info/download.html)
 
@@ -70,11 +70,11 @@
 
 网络通信控制与监视工具
 
-### [Pcap\_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [Pcap\_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/chengr28/Pcap_DNSProxy")](https://github.com/chengr28/Pcap_DNSProxy) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具，支持多服务器并行请求能以提高在恶劣网络环境下域名解析的可靠性
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 
@@ -82,21 +82,21 @@
 
 基于沙盒的隔离软件
 
-### Shadowsocks 影梭 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Shadowsocks 影梭 ![](/assets/图片2.png) [![](/assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://shadowsocks.org/en/index.html)｜[下载页面](https://shadowsocks.org/en/download/clients.html)
 
 Socks5代理工具
 
-### [ShadowsocksR ](https://breakwa11.github.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [ShadowsocksR ](https://breakwa11.github.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于Shadowsocks的主要分支之一
 
-### [Simple DNSCrypt](https://simplednscrypt.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Simple DNSCrypt](https://simplednscrypt.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](/assets/earth-globe.png)
 
 简单的DNSCrypt管理工具，可防止DNS污染
 
-### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 网络代理工具
 
