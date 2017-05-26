@@ -12,7 +12,7 @@ IMAP POP3邮件客户端，高度可定制且触控支持良好
 
 基于现代Web构架的可扩展的桌面邮件应用
 
-### Thunderbird 雷鸟 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Thunderbird 雷鸟 ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central) ![](/assets/earth-globe.png)
 
 ###### also Mozilla Thunderbird
 
