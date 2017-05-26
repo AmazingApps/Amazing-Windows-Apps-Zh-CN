@@ -26,7 +26,7 @@
 
 One browser for your computer, phone and tablet
 
-### Chromium ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BCD@chromium.org: https://www.chromium.org/developers/how-tos/get-the-code")](https://www.chromium.org/developers/how-tos/get-the-code) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Chromium ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BSD & Others@chromium.org: https://www.chromium.org/developers/how-tos/get-the-code")](https://www.chromium.org/developers/how-tos/get-the-code) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.chromium.org/Home)｜[下载页面](https://www.chromium.org/getting-involved/download-chromium)
 
@@ -84,7 +84,7 @@ Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多
 
 远程控制与桌面共享会议工具，也可以共享文件
 
-### Tor Project ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BCD/MIT@torproject.org: https://www.torproject.org/download/download.html.en")](https://www.torproject.org/download/download.html.en) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### Tor Project ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BSD/MIT@torproject.org: https://www.torproject.org/download/download.html.en")](https://www.torproject.org/download/download.html.en) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.torproject.org/)｜[下载页面](https://www.torproject.org/download/download.html.en)
 
