@@ -30,7 +30,7 @@ SSH客户端
 
 具备Xserver并标签化的SSH客户端
 
-### mRemoteNG ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### mRemoteNG ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/mRemoteNG/mRemoteNG")](https://github.com/mRemoteNG/mRemoteNG) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](https://mremoteng.org/)｜[下载页面](https://mremoteng.org/download)
 
@@ -42,11 +42,11 @@ SSH客户端
 
 标签化的PuTTY
 
-### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "独有协议@主页") ![](/assets/united-states.png)
 
 SSH与telnet客户端
 
-### WinSCP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### WinSCP ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@winscp.net: https://winscp.net/eng/download.php")](https://winscp.net/eng/download.php) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](https://winscp.net/eng/docs/lang:chs)｜[下载页面](https://winscp.net/eng/docs/lang:chs#下载)
 
