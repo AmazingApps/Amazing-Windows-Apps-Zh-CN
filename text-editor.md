@@ -4,11 +4,11 @@
 
 ---
 
-### [AkelPad](https://sourceforge.net/projects/akelpad/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [AkelPad](https://sourceforge.net/projects/akelpad/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BSD@SourceForge: https://sourceforge.net/projects/akelpad/")](https://sourceforge.net/projects/akelpad/) ![](/assets/earth-globe.png)
 
 高度轻量化的高级文本编辑器
 
-### Atom ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### Atom ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/atom/atom")](https://github.com/atom/atom) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](https://atom.io/)｜[下载页面](https://github.com/atom/atom/releases)
 
@@ -40,19 +40,19 @@
 
 使用MarkDown的笔记本应用
 
-### Knowte ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Knowte ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/digimezzo/Knowte")](https://github.com/digimezzo/Knowte) ![](/assets/earth-globe.png)
 
 ###### [官网](http://www.digimezzo.com/software/knowte-2/)｜[下载页面](http://www.digimezzo.com/content/software/knowte/)
 
 UWP风格UI的笔记本应用
 
-### Leanote 蚂蚁笔记![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Leanote 蚂蚁笔记 ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
 
 支持 Markdown 的开源云笔记，也可以搭建个人博客
 
-### [Light Table](http://lighttable.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Light Table](http://lighttable.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/LightTable/LightTable")](https://github.com/LightTable/LightTable) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 可定制化的编辑器，实时显示代码反馈与数据流
 
@@ -60,7 +60,7 @@ UWP风格UI的笔记本应用
 
 Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
 
-### Notepad++ ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### Notepad++ ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/notepad-plus-plus/notepad-plus-plus")](https://github.com/notepad-plus-plus/notepad-plus-plus) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](https://notepad-plus-plus.org/)｜[下载页面](https://notepad-plus-plus.org/download/v7.3.3.html)
 
@@ -70,7 +70,7 @@ Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持�
 
 ###### [官网](http://www.pspad.com/)｜[下载页面](http://www.pspad.com/en/download.php)
 
-免费的文本编辑器，支持C++, Cobol, MS-Dos batch, CSS, Forth, Fortran, FoxPro, HTML, XHTML, INI, Inno Setup, Java, JavaScript, KixStart, Object Pascal, Perl, PHP, Python, RSS, SQL, TCL/TK, Unix ShellScript, VBScript, Visual Basic, X86 assembler等其他170种以上的语法高亮。
+免费的文本编辑器，支持170种以上的语法高亮。
 
 ### [Simplenote](https://simplenote.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
@@ -84,7 +84,7 @@ Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持�
 
 简洁MarkDown阅读编写应用
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Microsoft/vscode")](https://github.com/Microsoft/vscode) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 微软出品的开源文本编辑器
 
