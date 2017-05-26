@@ -18,9 +18,11 @@
 
 ###### ⚠捆绑另一款无害应用
 
-### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/stefansundin/altdrag")](https://github.com/stefansundin/altdrag) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 按下Alt键时，拖动窗口，调整大小，最小化等等
+
+###### ⚠长期无更新但未发现明显的bug
 
 ### AOMEI Partition Assistant  分区助手 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
@@ -46,15 +48,15 @@
 
 ###### ⚠侵入式广告嫌疑
 
-### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Chuyu-Team")](https://github.com/Chuyu-Team) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 全球首家基于CBS的Dism GUI实现
 
-### [Ditto](https://sourceforge.net/projects/ditto-cp/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Ditto](https://sourceforge.net/projects/ditto-cp/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/ditto-cp/")](https://sourceforge.net/projects/ditto-cp/) ![](/assets/earth-globe.png)
 
 剪贴板管理
 
-### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/File-New-Project/EarTrumpet")](https://github.com/File-New-Project/EarTrumpet) ![](/assets/united-states.png)
 
 分别调整系统内所有使用扬声器的应用的音量
 
@@ -86,7 +88,9 @@
 
 方便地查看视频音频文件的技术数据与元数据标签
 
-### [memreduct](https://github.com/henrypp/memreduct) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### memreduct ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/henrypp/memreduct")](https://github.com/henrypp/memreduct) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网](http://www.henrypp.org/product/memreduct)｜[下载页面](https://github.com/henrypp/memreduct/releases/latest)
 
 监控优化系统内存
 
@@ -94,7 +98,7 @@
 
 增强型任务管理器， 允许终结一些系统的关键进程
 
-### Process Hacker ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### Process Hacker ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/processhacker2/processhacker2")](https://github.com/processhacker2/processhacker2) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网](https://wj32.org/processhacker/index.php)｜[下载页面](https://wj32.org/processhacker/downloads.php)
 
@@ -106,7 +110,7 @@ Adjust processes priority to prevent CPU unresponsing on some devices
 
 自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
 
-### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "NO LISENCE@HOMEPAGE: http://qttabbar.wikidot.com/") ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式Explorer增强工具
 
