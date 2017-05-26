@@ -12,7 +12,7 @@
 
 从Windows中发起traceroute请求并可视化展示
 
-### [**Brave**](https://www.brave.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [**Brave**](https://www.brave.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/brave")](https://github.com/brave) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 自动拦截广告与追踪器的浏览器
 
@@ -26,17 +26,17 @@
 
 One browser for your computer, phone and tablet
 
-### Chromium ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Chromium ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BCD@chromium.org: https://www.chromium.org/developers/how-tos/get-the-code")](https://www.chromium.org/developers/how-tos/get-the-code) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.chromium.org/Home)｜[下载页面](https://www.chromium.org/getting-involved/download-chromium)
 
 Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多重开源协议发行并且开放源代码，Chrome和Chromium在实际功能上没有太大差距，可以说Chromium是Chrome的开源版本
 
-### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
 
-### Firefox 火狐 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Firefox 火狐 ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### also Mozilla Firefox
 
@@ -64,13 +64,13 @@ Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多
 
 为没有代理支持的应用添加代理
 
-### QuiteRSS ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### QuiteRSS ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/QuiteRSS/quiterss")](https://github.com/QuiteRSS/quiterss) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://quiterss.org/)｜[下载页面](https://quiterss.org/en/download)
 
 开源跨平台RSS/Atom阅读器
 
-### Retroshare ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Retroshare ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/RetroShare/RetroShare")](https://github.com/RetroShare/RetroShare) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](http://retroshare.net/)｜[下载页面](http://retroshare.net/downloads.html)
 
@@ -84,7 +84,7 @@ Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多
 
 远程控制与桌面共享会议工具，也可以共享文件
 
-### Tor Project ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### Tor Project ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BCD/MIT@torproject.org: https://www.torproject.org/download/download.html.en")](https://www.torproject.org/download/download.html.en) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.torproject.org/)｜[下载页面](https://www.torproject.org/download/download.html.en)
 
@@ -102,7 +102,7 @@ Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多
 
 同样基于chromium的优秀浏览器
 
-### [ZeroNet ](https://zeronet.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [ZeroNet ](https://zeronet.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台的去中心化网络框架
 
