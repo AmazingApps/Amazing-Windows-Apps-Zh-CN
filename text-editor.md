@@ -30,7 +30,7 @@
 
 使用GitBook的GUI客户端
 
-### GNU Emacs ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### GNU Emacs ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL系列@fsf.org: https://directory.fsf.org/wiki/GNU")](https://directory.fsf.org/wiki/GNU) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.gnu.org/software/emacs/)｜[下载页面](https://www.gnu.org/software/emacs/download.html)
 
