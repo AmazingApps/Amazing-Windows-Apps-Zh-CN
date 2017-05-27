@@ -27,6 +27,9 @@
 | [tttsss520 (烟雨三千年)](https://github.com/tttsss520) | [unnamed5719](https://github.com/unnamed5719) | [venmos \(Kuroi Mato\)](https://github.com/venmos) | [WanderMax](https://github.com/WanderMax) |
 | [Yanda Huang](https://github.com/yodahuang) | [yfdyh000 \(YFdyh000\)](https://github.com/yfdyh000) | [yi-Xu-0100 (yi_Xu)](https://github.com/yi-Xu-0100) | [ZetaoYang](https://github.com/ZetaoYang) |
 
+特别鸣谢：
+
+* [venmos (Kuroi Mato)](https://github.com/venmos)：镜像域名与VPS空间
 
 第三方宣传：
 
