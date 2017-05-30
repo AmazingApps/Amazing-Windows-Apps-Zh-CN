@@ -1,3 +1,5 @@
+# 此处不再维护，请转回[原项目](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)
+
 <h1 align="center">Windows 绝赞应用</h1>
 
 <p align="center">
