@@ -74,7 +74,7 @@ FTP FTPS SFTP客户端
 
 强大灵活的文件重命名，提供许多强大内置规则.
 
-### [Resource Hacker](http://www.angusj.com/resourcehacker/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Resource Hacker](http://www.angusj.com/resourcehacker/) or [Resource Cracker](https://www.pelock.com/products/resource-cracker) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 获取Windows可执行文件（EXE DLL SCR MUI等）中的资源文件
 
